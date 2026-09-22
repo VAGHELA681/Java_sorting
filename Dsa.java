@@ -1,0 +1,142 @@
+//What is Data Structure?
+
+//Data is a collection of raw facts, figures or values that can be processed to produce meaningful information.
+
+ //For example:
+
+ //User posts on Instagram
+
+ //Product details on e-commerce platforms
+
+//Structure describes how we store or organize the data.
+
+ //For example:
+
+ //On Instagram, each post is stored with fields like caption, image/video, likes and comments.
+
+ //On e-commerce platforms, product details are stored with fields like name, price description and reviews.
+   
+//A Data Structure is a way to store and organize data so that operations 
+//(Insertion, Deletion, Searching, Updating) can be performed efficiently and quickly
+
+//For example:
+
+//Arrays : Stores data in continuous memory using What is Data Structure?
+//LinkedList : Stores data in nodes with pointers to the next node, allowing dynamic size and efficient 
+//insertions/deletions
+
+//Data Structure (ડેટા સ્ટ્રક્ચર)
+
+//Data શું છે?
+
+//Data એટલે કાચા તથ્યો (Facts), આંકડા (Figures) અથવા Values નો સંગ્રહ, જેને Process કરીને ઉપયોગી માહિતી (Meaningful Information) મેળવી શકાય છે.
+
+//ઉદાહરણ:
+
+//- Instagram પરના User Posts
+//- E-commerce Platform પરની Product Details
+
+//---
+
+//Structure શું છે?
+
+//Structure એટલે Data ને કેવી રીતે Store (સંગ્રહ) અથવા Organize (વ્યવસ્થિત) કરવામાં આવે છે.
+
+//ઉદાહરણ:
+
+//Instagram પર:
+//દરેક Post ને નીચેના Fields સાથે Store કરી શકાય છે:
+
+//- Caption
+//- Image/Video
+//- Likes
+//- Comments
+
+//E-commerce Platform પર:
+//Product Details ને નીચેના Fields સાથે Store કરી શકાય છે:
+
+//- Name
+//- Price
+//- Description
+//- Reviews
+
+//---
+
+//Data Structure શું છે?
+
+//Data Structure એટલે Data ને એવી રીતે Store અને Organize કરવાની રીત, જેથી તેના પર કરવામાં આવતી Operations જેમ કે:
+
+//- Insertion (ઉમેરવું)
+//- Deletion (કાઢવું)
+//- Searching (શોધવું
+//- Updating (ફેરફાર કરવો)
+
+// વધુ Efficiently (કાર્યક્ષમ રીતે) અને Quickly (ઝડપથી) કરી શકાય.
+
+//ઉદાહરણ:
+
+//1. Array:
+//Data ને continuous memory માં Store કરે છે અને Index દ્વારા Data Access કરી શકાય છે.
+
+//2. Linked List:
+//Data ને Nodes માં Store કરે છે. દરેક Node માં આગળના Node નું Pointer/Reference હોય છે. તેથી તેનો Size Dynamic હોઈ શકે છે અને Insertion/Deletion સરળતાથી કરી શકાય છે.
+
+//---
+
+//Types of Data Structures
+
+//Data Structures ના વિવિધ પ્રકારો હોય છે.
+
+//ઉદાહરણ:
+
+//- Array
+//- Linked List
+//- Stack
+//- Queue
+//- Tree
+//- Graph
+
+//---
+
+//Operations on Data Structures
+
+//Data Structure માં રહેલા Data ને Manage અથવા Manipulate કરવા માટે વિવિધ Operations કરી શકાય છે.
+
+//1. Insertion
+
+//Data Structure માં નવો Data ઉમેરવો.
+
+//ઉદાહરણ:
+//Array માં નવો Element ઉમેરવો.
+
+//2. DeletionData Structure માંથી હાલનો Data દૂર કરવો.
+
+//ઉદાહરણ:
+//Array માંથી કોઈ Element કાઢી નાખવો.
+
+//3. Traversal
+
+//Data Structure ના દરેક Element ને એક પછી એક Access કરવો.
+
+//ઉદાહરણ:
+//Array ના બધા Elements ને એક પછી એક Print કરવા.
+
+//4. Updation
+
+//હાલના Data માં ફેરફાર કરવો અથવા તેની Value બદલવી.
+
+//ઉદાહરણ:
+//"10" ને બદલીને "20" કરવું.
+//---
+
+//સરળ ભાષામાં યાદ રાખો 🧠
+
+//Data Structure = Data ને Store + Organize કરવાની રીત
+
+//અને તેના મુખ્ય Operations:
+
+//Insertion → ઉમેરવું
+//Deletion → કાઢવું
+//Traversal → એક પછી એક Access કરUpdation → ફેરફાર કરવોજો પરીક્ષા માટે 2–3 માર્કનો ટૂંકો જવાબ જોઈએ, તો Data Structure ની definition આ રીતે યાદ રાખી શકો:
+
+//> Data Structure એ Data ને Store અને Organize કરવાની એવી રીત છે, જેથી Data પર વિવિધ Operations કાર્યક્ષમ અને ઝડપથી કરી શકાય.
